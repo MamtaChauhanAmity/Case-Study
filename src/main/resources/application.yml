@@ -1,0 +1,10 @@
+server:
+  port: 8090
+weather:
+  prediction:
+    token: 61b4b5b43711f8863352f36ec13994e6
+    url: http://api.openweathermap.org/data/2.5/forecast
+csv:
+  file: amex_b9_test/data/amex_b9_test_input.csv
+  output: amex_b9_test/data/output.csv
+
